@@ -1,0 +1,49 @@
+_repo: Maxims-and-counsels-of-St-Francis-de-Sales-for-every-day-of-the-year_73661
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: McMahon, Ella
+    aliases:
+    - MacMahon, Ella
+    - McMahon, Ella J.
+    gutenberg_agent_id: '46648'
+    url: http://www.gutenberg.org/2009/agents/46648
+creator:
+  author:
+    agent_name: Francis, de Sales, Saint
+    aliases:
+    - Sales, Francis de, Saint
+    - Sales, Saint Francis de
+    birthdate: 1567
+    deathdate: 1622
+    gutenberg_agent_id: '40914'
+    url: http://www.gutenberg.org/2009/agents/40914
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_de_Sales
+    - https://en.wikipedia.org/wiki/Francis_de_Sales
+description: ''
+gutenberg_issued: '2024-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73661'
+language: en
+pgterms:marc904: https://archive.org/details/MaximsAndCounselsOfStFrancisDeSales
+pgterms:marc905: 20230310040501author
+pgterms:marc906: '1884'
+pgterms:marc907: IE
+production_note: Adlaurentius and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from scanned images of public domain material from the Google
+  Books project.)
+publication_note: '  $aDublin :$bM. H. Gill & Son, $c1884.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Devotional calendars'
+- !lcsh 'Christian saints -- Quotations'
+- !lcsh 'Francis, de Sales, Saint, 1567-1622 -- Quotations'
+- !lcsh 'Christianity -- Quotations'
+- !lcc 'BX'
+- GITenberg
+title: Maxims and counsels of St. Francis de Sales for every day of the year
+url: http://www.gutenberg.org/ebooks/73661
