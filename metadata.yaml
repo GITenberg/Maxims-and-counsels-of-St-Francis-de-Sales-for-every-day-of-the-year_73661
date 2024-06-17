@@ -8,6 +8,9 @@ contributor:
     - McMahon, Ella J.
     gutenberg_agent_id: '46648'
     url: http://www.gutenberg.org/2009/agents/46648
+covers:
+- cover_type: archival
+  image_path: 73661-h/images/cover.jpg
 creator:
   author:
     agent_name: Francis, de Sales, Saint
@@ -22,6 +25,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_de_Sales
     - https://en.wikipedia.org/wiki/Francis_de_Sales
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73661#Maxims-and-counsels-of-St-Francis-de-Sales-for-every-day-of-the-year
 gutenberg_issued: '2024-05-21'
 gutenberg_type: Text
 identifiers:
